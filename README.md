@@ -91,7 +91,6 @@ public class Main {
         ProdutoA.RemoveProducts(quantity);
 ```
 
-⚠️ **Erro de digitação**: o texto deveria ser "removed", não "added".
 
 ---
 
